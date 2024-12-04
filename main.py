@@ -37,7 +37,7 @@ def spustit_kod():
 
 
 root = tk.Tk()
-root.title("Програмovací techniky")
+root.title("Programovacie techniky")
 root.geometry("600x400")
 root.configure(bg="#4B145B")
 
